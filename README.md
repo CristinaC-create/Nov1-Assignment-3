@@ -1,6 +1,6 @@
 # Nov1-Assignment-3
 
-Personal Wiki Page
+My Personal Wiki Page
 
 Welcome to my personal wiki! This repository is a central hub where I organize notes, projects, and resources related to my journey in web development. Here, I document my progress, experiments, and insights as I work on different projects.
 
